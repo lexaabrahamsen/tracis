@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+.inputStyle {
+  font-size: 1.4em;
+  font-family: "Montserrat";
+  padding: 3px 12px 6px;
+  /* display: inline-block; */
+  width: 40%;
+  background-color: fff;
+  box-shadow: 30px 30px 60px 0px rgba(0, 0, 0, 0.3);
+  border-radius: 40px;
+  border: 0px;
+  outline: none;
+}
+
+.h1 {
+  font-size: 5em;
+  color: 000;
+  letter-spacing: normal;
+  line-height: 1.1em;
+  font-family: "Montserrat";
+}
+
+.p {
+  font-size: 1.5em;
+  color: 000;
+  letter-spacing: normal;
+  line-height: 1.1em;
+  font-family: "Montserrat";
+  padding-top: 1.5em;
+}
